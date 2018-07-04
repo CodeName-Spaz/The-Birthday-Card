@@ -1,0 +1,26 @@
+page-home {
+  .card-background-page{
+      background:url('../../assets/imgs/hd.jpg');
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  .card{
+      background-color: rgba(0, 0, 0, 0.021);
+      margin: 0 auto;
+      border-radius: 10px;
+      box-shadow: 0px 0px 15px black;
+  }
+  p{
+      color: white;
+  }
+  .head{
+      background: black;
+      opacity: 0.5;
+      text-align: center;
+  }
+  .up{
+      background: grey;
+      box-shadow: 0px 0px 120px grey;
+  }
+}
